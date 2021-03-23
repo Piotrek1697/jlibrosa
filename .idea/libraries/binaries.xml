@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="binaries">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/binaries/jlibrosa-1.0.2-SNAPSHOT-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/binaries/jlibrosa-1.0.2-SNAPSHOT-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

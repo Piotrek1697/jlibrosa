@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jlibrosa-pj-fork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jlibrosa-pj-fork</output-path>
+    <root id="archive" name="jlibrosa-pj-fork.jar">
+      <element id="module-output" name="main" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/binaries/jlibrosa-1.0.2-SNAPSHOT-jar-with-dependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/binaries/jlibrosa-1.0.2-SNAPSHOT-javadoc.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
